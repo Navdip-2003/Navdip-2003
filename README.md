@@ -19,6 +19,54 @@
 
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="70" height="70"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="70"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="70"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="70" height="70"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="70" height="70"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> </p><br>
-
+<br>
+<div class="BorderGrid-cell">
+                <h2 class="h4 mb-3">Languages</h2>
+<div class="mb-2">
+  <span data-view-component="true" class="Progress">
+    <span style="background-color:#4F5D95 !important;;width: 90.5%;" itemprop="keywords" aria-label="PHP 90.5" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#563d7c !important;;width: 5.6%;" itemprop="keywords" aria-label="CSS 5.6" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#f1e05a !important;;width: 3.0%;" itemprop="keywords" aria-label="JavaScript 3.0" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#ededed !important;;width: 0.9%;" itemprop="keywords" aria-label="Other 0.9" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+</span></div>
+<ul class="list-style-none">
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Navdip-2003/flight-data/search?l=php" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#4F5D95;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">PHP</span>
+          <span>90.5%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Navdip-2003/flight-data/search?l=css" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#563d7c;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">CSS</span>
+          <span>5.6%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Navdip-2003/flight-data/search?l=javascript" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#f1e05a;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">JavaScript</span>
+          <span>3.0%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+      <span class="d-inline-flex flex-items-center flex-nowrap text-small mr-3">
+        <svg style="color:#ededed;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+</svg>
+        <span class="color-fg-default text-bold mr-1">Other</span>
+        <span>0.9%</span>
+      </span>
+    </li>
+</ul>
+</div>
 
 
