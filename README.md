@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Application developer from India</h3>
 <br>
-- 🌱 I’m currently working on **Flutter App developer**
+- 🌱 I’m currently working on **MERN Stack And Android App Developer**
 
 - 💬 Ask me about **App Development**
 
