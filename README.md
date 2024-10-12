@@ -4,7 +4,7 @@
 <br>
 - 🌱 I’m currently working on **MERN Stack And Backend Developer**
 
-- 💬 Ask me about **App Development**
+- 💬 Ask me about **NodeJS Backend and Web Development**
 
 - 📫 How to reach me **navdipchothani99@gmail.com**
 
